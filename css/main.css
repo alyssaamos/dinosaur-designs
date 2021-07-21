@@ -3,8 +3,6 @@ html {
   background-color: #f2f1ed;
   font-family: Georgia, serif;
   line-height: 1.5;
-  position: relative;
-  top: 4px;
 }
 
 *, *::before, *::after {
